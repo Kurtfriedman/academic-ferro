@@ -67,6 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Zhiyang(Kurt) Wang, I'm a material science postgraduate student. Now, my major research direction is about defects induced behavior in ferroelectric material and phasefield simualtion of them. Besides my own research projects at hand, I'm also interested in some other area about material science, including combination of material science and machinen learning, ferromagnetic material, and semiconducter material. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
