@@ -15,22 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "Matlab(100%) python(50%) R(20%)"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "wrench"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Tools"
+  description = "Origin LaTeX Photoshop"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "mortar-pestal"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Experiment"
+  description = "Ceramic synthesizing"
+  
+[[feature]]
+  icon = "atom"
+  icon_pack = "fas"
+  name = "Physics"
+  description = "Enthusiast but novice"
+  
+[[feature]]
+  icon = "carrot"
+  icon_pack = "fas"
+  name = "Cooking and Baking"
+  description = "Maybe all the traditional Chinese dishes you can imagine"
 
 # Uncomment to use emoji icons.
 # [[feature]]
