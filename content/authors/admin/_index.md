@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate student in material science and engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Xi'an Jiaotong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Now my research direction focus on ferroelectric material and phasefield simulation, but I'd also like to try new things.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- ferroelectric material
+- phasefield simulation of ferroelectric material
+- relaxor ferroelectirc
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Material Science
+    institution: Material Science and Engineering Istitute, Xi'an Jiaotong University
+    year: 2018-2021
+  - course: B.S. in Material Science and Engineering
+    institution: Material Science and Engineering Istitute, Xi'an Jiaotong University
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
