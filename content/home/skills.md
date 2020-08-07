@@ -27,7 +27,7 @@ subtitle = ""
   description = "Origin LaTeX Photoshop"  
   
 [[feature]]
-  icon = "mortar-pestal"
+  icon = "mortar-pestle"
   icon_pack = "fas"
   name = "Experiment"
   description = "Ceramic synthesizing"
